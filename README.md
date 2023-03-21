@@ -1,4 +1,4 @@
-# Lost Voices
+# Lost-Voices
 
 <img src="https://mechanicsofmagic.com/wp-content/uploads/2023/03/theme.png" width="400" />
 
@@ -6,6 +6,8 @@ A game created by Charlotte Feng
 
 Number of player: 1
 Suggested age range: 12+
+Platform: Web Browser ([Play on itch.io](https://cfenggames.itch.io/lost-voices)
+
 
 ## Premise
 
