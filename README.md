@@ -5,8 +5,10 @@
 A game created by Charlotte Feng
 
 Number of player: 1
+
 Suggested age range: 12+
-Platform: Web Browser ([Play on itch.io](https://cfenggames.itch.io/lost-voices)
+
+Platform: Web Browser ([Play on itch.io](https://cfenggames.itch.io/lost-voices))
 
 
 ## Premise
